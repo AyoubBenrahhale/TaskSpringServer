@@ -75,6 +75,7 @@
 	</dependencyManagement>
 
 	<build>
+	    <finalName>aws-eb-demo.jar</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
